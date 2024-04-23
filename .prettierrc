@@ -1,5 +1,8 @@
 {
-    "trailingComma": "none",
-    "semi": false,
-    "singleQuote": true
-  }
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": false,
+  "pluginSearchDirs": false,
+  "endOfLine": "auto"
+}
